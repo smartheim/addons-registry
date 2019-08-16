@@ -1,0 +1,5242 @@
+[
+    {
+        "id": "binding-airquality",
+        "label": "Air Quality Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/airquality/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580812537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.airquality/changelog.md"
+    },
+    {
+        "id": "binding-airvisualnode",
+        "label": "AirVisual Node Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/airvisualnode/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580822537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.airvisualnode/changelog.md"
+    },
+    {
+        "id": "binding-allplay",
+        "label": "AllPlay Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/allplay/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580832537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.allplay/changelog.md"
+    },
+    {
+        "id": "binding-amazondashbutton",
+        "label": "Amazon Dash Button Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/amazondashbutton/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580842537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.amazondashbutton/changelog.md"
+    },
+    {
+        "id": "binding-amazonechocontrol",
+        "label": "Amazon Echo Control Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/amazonechocontrol/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580852537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.amazonechocontrol/changelog.md"
+    },
+    {
+        "id": "binding-astro",
+        "label": "Astro Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/astro/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580862537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.astro/changelog.md"
+    },
+    {
+        "id": "binding-atlona",
+        "label": "Atlona PRO3 Switch Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/atlona/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580872537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.atlona/changelog.md"
+    },
+    {
+        "id": "binding-autelis",
+        "label": "Autelis Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/autelis/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580882537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.autelis/changelog.md"
+    },
+    {
+        "id": "binding-avmfritz",
+        "label": "AVM FRITZ!Box Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/avmfritz/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580892537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.avmfritz/changelog.md"
+    },
+    {
+        "id": "binding-bigassfan",
+        "label": "Big Ass Fan Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/bigassfan/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580902537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.bigassfan/changelog.md"
+    },
+    {
+        "id": "binding-bluetooth",
+        "label": "Bluetooth Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/bluetooth/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [
+                "HW_BLUETOOTH"
+            ],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.bluetooth/changelog.md"
+    },
+    {
+        "id": "binding-boschindego",
+        "label": "Bosch Indego Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/boschindego/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.boschindego/changelog.md"
+    },
+    {
+        "id": "binding-bosesoundtouch",
+        "label": "Bose SoundTouch Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/bosesoundtouch/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.bosesoundtouch/changelog.md"
+    },
+    {
+        "id": "binding-chromecast",
+        "label": "Chromecast Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/chromecast/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.chromecast/changelog.md"
+    },
+    {
+        "id": "binding-cm11a",
+        "label": "cm11a Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/cm11a/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.cm11a/changelog.md"
+    },
+    {
+        "id": "binding-coolmasternet",
+        "label": "CoolMasterNet Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/coolmasternet/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.coolmasternet/changelog.md"
+    },
+    {
+        "id": "binding-deconz",
+        "label": "Dresden Elektronik Deconz Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/deconz/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.deconz/changelog.md"
+    },
+    {
+        "id": "binding-denonmarantz",
+        "label": "DenonMarantz Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/denonmarantz/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.denonmarantz/changelog.md"
+    },
+    {
+        "id": "binding-digitalstrom",
+        "label": "digitalSTROM Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/digitalstrom/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.digitalstrom/changelog.md"
+    },
+    {
+        "id": "binding-dlinksmarthome",
+        "label": "D-Link Smart Home Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/dlinksmarthome/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.dlinksmarthome/changelog.md"
+    },
+    {
+        "id": "binding-dmx",
+        "label": "DMX Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/dmx/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.dmx/changelog.md"
+    },
+    {
+        "id": "binding-dscalarm",
+        "label": "DSCAlarm Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/dscalarm/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.dscalarm/changelog.md"
+    },
+    {
+        "id": "binding-dsmr",
+        "label": "DSMR Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/dsmr/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.dsmr/changelog.md"
+    },
+    {
+        "id": "binding-elerotransmitterstick",
+        "label": "Elero Transmitterstick Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/elerotransmitterstick/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.elerotransmitterstick/changelog.md"
+    },
+    {
+        "id": "binding-enocean",
+        "label": "EnOcean Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/enocean/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.enocean/changelog.md"
+    },
+    {
+        "id": "binding-evohome",
+        "label": "Evohome Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/evohome/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.evohome/changelog.md"
+    },
+    {
+        "id": "binding-exec",
+        "label": "Exec Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/exec/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.exec/changelog.md"
+    },
+    {
+        "id": "binding-feed",
+        "label": "Feed Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/feed/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.feed/changelog.md"
+    },
+    {
+        "id": "binding-feican",
+        "label": "Feican Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/feican/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.feican/changelog.md"
+    },
+    {
+        "id": "binding-folding",
+        "label": "Folding Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/folding/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.folding/changelog.md"
+    },
+    {
+        "id": "binding-freebox",
+        "label": "Freebox Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/freebox/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.freebox/changelog.md"
+    },
+    {
+        "id": "binding-fronius",
+        "label": "Fronius Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/fronius/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.fronius/changelog.md"
+    },
+    {
+        "id": "binding-fsinternetradio",
+        "label": "Frontier Silicon Internet Radio Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/fsinternetradio/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.fsinternetradio/changelog.md"
+    },
+    {
+        "id": "binding-ftpupload",
+        "label": "FTP Upload Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/ftpupload/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.ftpupload/changelog.md"
+    },
+    {
+        "id": "binding-gardena",
+        "label": "Gardena Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/gardena/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.gardena/changelog.md"
+    },
+    {
+        "id": "binding-globalcache",
+        "label": "GlobalCache Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/globalcache/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.globalcache/changelog.md"
+    },
+    {
+        "id": "binding-gpstracker",
+        "label": "GPSTracker Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/gpstracker/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.gpstracker/changelog.md"
+    },
+    {
+        "id": "binding-groheondus",
+        "label": "GROHE ONDUS Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/groheondus/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.groheondus/changelog.md"
+    },
+    {
+        "id": "binding-harmonyhub",
+        "label": "Harmony Hub Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/harmonyhub/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.harmonyhub/changelog.md"
+    },
+    {
+        "id": "binding-hdanywhere",
+        "label": "HDAnywhere Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/hdanywhere/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.hdanywhere/changelog.md"
+    },
+    {
+        "id": "binding-hdpowerview",
+        "label": "HD PowerView Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/hdpowerview/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.hdpowerview/changelog.md"
+    },
+    {
+        "id": "binding-helios",
+        "label": "Helios Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/helios/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.helios/changelog.md"
+    },
+    {
+        "id": "binding-homematic",
+        "label": "Homematic Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/homematic/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.homematic/changelog.md"
+    },
+    {
+        "id": "binding-hue",
+        "label": "Hue Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/hue/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [
+            "David Gräff"
+        ],
+        "permissions": {
+            "mandatory": [
+                "MEM_500"
+            ],
+            "optional": [
+                "CPU_MAX"
+            ]
+        },
+        "firewall_allow": [
+            "www.google.com",
+            "*"
+        ],
+        "ports": [
+            "3000",
+            "9090-9091:8080-8081",
+            "6060:6060/udp"
+        ],
+        "linux_capabilities": [
+            "NET_ADMIN"
+        ],
+        "devices": [
+            "/dev/ttyUSB0:/dev/ttyUSB0"
+        ],
+        "requirements": {
+            "core-iam": "1.0",
+            "binding-hyperion": "2.5"
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.hue/changelog.md"
+    },
+    {
+        "id": "binding-hyperion",
+        "label": "Hyperion Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/hyperion/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.hyperion/changelog.md"
+    },
+    {
+        "id": "binding-icloud",
+        "label": "icloud Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/icloud/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.icloud/changelog.md"
+    },
+    {
+        "id": "binding-innogysmarthome",
+        "label": "innogy Smarthome Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/innogysmarthome/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.innogysmarthome/changelog.md"
+    },
+    {
+        "id": "binding-ipp",
+        "label": "IPP Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/ipp/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.ipp/changelog.md"
+    },
+    {
+        "id": "binding-irtrans",
+        "label": "IRTrans Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/irtrans/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.irtrans/changelog.md"
+    },
+    {
+        "id": "binding-jeelink",
+        "label": "Jeelink Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/jeelink/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.jeelink/changelog.md"
+    },
+    {
+        "id": "binding-keba",
+        "label": "Keba Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/keba/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.keba/changelog.md"
+    },
+    {
+        "id": "binding-km200",
+        "label": "KM200 Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/km200/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.km200/changelog.md"
+    },
+    {
+        "id": "binding-knx",
+        "label": "KNX Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/knx/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.knx/changelog.md"
+    },
+    {
+        "id": "binding-kodi",
+        "label": "Kodi Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/kodi/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.kodi/changelog.md"
+    },
+    {
+        "id": "binding-konnected",
+        "label": "Konnected Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/konnected/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.konnected/changelog.md"
+    },
+    {
+        "id": "binding-kostalinverter",
+        "label": "Kostal Inverter Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/kostalinverter/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.kostalinverter/changelog.md"
+    },
+    {
+        "id": "binding-lametrictime",
+        "label": "LaMetric Time Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lametrictime/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lametrictime/changelog.md"
+    },
+    {
+        "id": "binding-leapmotion",
+        "label": "LeapMotion Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/leapmotion/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.leapmotion/changelog.md"
+    },
+    {
+        "id": "binding-lgtvserial",
+        "label": "LG TV Serial Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lgtvserial/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lgtvserial/changelog.md"
+    },
+    {
+        "id": "binding-lgwebos",
+        "label": "LG webOS Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lgwebos/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lgwebos/changelog.md"
+    },
+    {
+        "id": "binding-lifx",
+        "label": "LIFX Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lifx/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lifx/changelog.md"
+    },
+    {
+        "id": "binding-lirc",
+        "label": "LIRC Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lirc/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lirc/changelog.md"
+    },
+    {
+        "id": "binding-logreader",
+        "label": "Log Reader Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/logreader/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.logreader/changelog.md"
+    },
+    {
+        "id": "binding-loxone",
+        "label": "Loxone Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/loxone/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.loxone/changelog.md"
+    },
+    {
+        "id": "binding-lutron",
+        "label": "Lutron Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/lutron/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.lutron/changelog.md"
+    },
+    {
+        "id": "binding-max",
+        "label": "MAX! Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/max/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.max/changelog.md"
+    },
+    {
+        "id": "binding-mcp23017",
+        "label": "MCP23017 Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/mcp23017/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.mcp23017/changelog.md"
+    },
+    {
+        "id": "binding-meteoblue",
+        "label": "meteoblue Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/meteoblue/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.meteoblue/changelog.md"
+    },
+    {
+        "id": "binding-meteostick",
+        "label": "Meteostick Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/meteostick/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.meteostick/changelog.md"
+    },
+    {
+        "id": "binding-miele",
+        "label": "Miele@home Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/miele/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.miele/changelog.md"
+    },
+    {
+        "id": "binding-mihome",
+        "label": "Xiaomi Mi Smart Home Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/mihome/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.mihome/changelog.md"
+    },
+    {
+        "id": "binding-miio",
+        "label": "Xiaomi Mi IO Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/miio/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.miio/changelog.md"
+    },
+    {
+        "id": "binding-milight",
+        "label": "Milight Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/milight/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.milight/changelog.md"
+    },
+    {
+        "id": "binding-minecraft",
+        "label": "Minecraft Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/minecraft/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.minecraft/changelog.md"
+    },
+    {
+        "id": "binding-modbus",
+        "label": "Modbus Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/modbus/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.modbus/changelog.md"
+    },
+    {
+        "id": "binding-mqtt",
+        "label": "MQTT Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/mqtt/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.mqtt/changelog.md"
+    },
+    {
+        "id": "binding-neato",
+        "label": "Neato Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/neato/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.neato/changelog.md"
+    },
+    {
+        "id": "binding-neeo",
+        "label": "NEEO Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/neeo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.neeo/changelog.md"
+    },
+    {
+        "id": "binding-nest",
+        "label": "Nest Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/nest/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "UNMAINTAINED"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.nest/changelog.md"
+    },
+    {
+        "id": "binding-netatmo",
+        "label": "Netatmo Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/netatmo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "UNMAINTAINED"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.netatmo/changelog.md"
+    },
+    {
+        "id": "binding-network",
+        "label": "Network Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/network/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.network/changelog.md"
+    },
+    {
+        "id": "binding-nibeheatpump",
+        "label": "Nibe Heat Pump Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/nibeheatpump/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.nibeheatpump/changelog.md"
+    },
+    {
+        "id": "binding-nibeuplink",
+        "label": "NibeUplink Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/nibeuplink/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.nibeuplink/changelog.md"
+    },
+    {
+        "id": "binding-nikohomecontrol",
+        "label": "Niko Home Control Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/nikohomecontrol/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.nikohomecontrol/changelog.md"
+    },
+    {
+        "id": "binding-ntp",
+        "label": "NTP Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/ntp/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.ntp/changelog.md"
+    },
+    {
+        "id": "binding-nuki",
+        "label": "Nuki Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/nuki/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.nuki/changelog.md"
+    },
+    {
+        "id": "binding-oceanic",
+        "label": "Oceanic Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/oceanic/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.oceanic/changelog.md"
+    },
+    {
+        "id": "binding-onebusaway",
+        "label": "OneBusAway Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/onebusaway/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.onebusaway/changelog.md"
+    },
+    {
+        "id": "binding-onewire",
+        "label": "OneWire Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/onewire/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [
+                "HW_W1"
+            ],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.onewire/changelog.md"
+    },
+    {
+        "id": "binding-onewiregpio",
+        "label": "OneWireGPIO Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/onewiregpio/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.onewiregpio/changelog.md"
+    },
+    {
+        "id": "binding-onkyo",
+        "label": "Onkyo Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/onkyo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.onkyo/changelog.md"
+    },
+    {
+        "id": "binding-opensprinkler",
+        "label": "OpenSprinkler Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/opensprinkler/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.opensprinkler/changelog.md"
+    },
+    {
+        "id": "binding-openuv",
+        "label": "OpenUV Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/openuv/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.openuv/changelog.md"
+    },
+    {
+        "id": "binding-openweathermap",
+        "label": "OpenWeatherMap Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/openweathermap/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.openweathermap/changelog.md"
+    },
+    {
+        "id": "binding-orvibo",
+        "label": "Orvibo Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/orvibo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.orvibo/changelog.md"
+    },
+    {
+        "id": "binding-pentair",
+        "label": "Pentair Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/pentair/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.pentair/changelog.md"
+    },
+    {
+        "id": "binding-phc",
+        "label": "PHC Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/phc/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.phc/changelog.md"
+    },
+    {
+        "id": "binding-pioneeravr",
+        "label": "PioneerAVR Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/pioneeravr/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.pioneeravr/changelog.md"
+    },
+    {
+        "id": "binding-plclogo",
+        "label": "PLCLogo Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/plclogo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.plclogo/changelog.md"
+    },
+    {
+        "id": "binding-plugwise",
+        "label": "Plugwise Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/plugwise/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.plugwise/changelog.md"
+    },
+    {
+        "id": "binding-powermax",
+        "label": "Powermax Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/powermax/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.powermax/changelog.md"
+    },
+    {
+        "id": "binding-pulseaudio",
+        "label": "Pulseaudio Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/pulseaudio/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.pulseaudio/changelog.md"
+    },
+    {
+        "id": "binding-regoheatpump",
+        "label": "RegoHeatPump Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/regoheatpump/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.regoheatpump/changelog.md"
+    },
+    {
+        "id": "binding-rfxcom",
+        "label": "RFXCOM Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/rfxcom/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.rfxcom/changelog.md"
+    },
+    {
+        "id": "binding-rme",
+        "label": "RME Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/rme/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.rme/changelog.md"
+    },
+    {
+        "id": "binding-robonect",
+        "label": "Robonect Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/robonect/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.robonect/changelog.md"
+    },
+    {
+        "id": "binding-rotelra1x",
+        "label": "RotelRa1x Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/rotelra1x/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.rotelra1x/changelog.md"
+    },
+    {
+        "id": "binding-russound",
+        "label": "Russound Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/russound/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.russound/changelog.md"
+    },
+    {
+        "id": "binding-samsungtv",
+        "label": "Samsung TV Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/samsungtv/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.samsungtv/changelog.md"
+    },
+    {
+        "id": "binding-satel",
+        "label": "Satel Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/satel/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.satel/changelog.md"
+    },
+    {
+        "id": "binding-seneye",
+        "label": "Seneye Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/seneye/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.seneye/changelog.md"
+    },
+    {
+        "id": "binding-sensebox",
+        "label": "Sensebox Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/sensebox/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.sensebox/changelog.md"
+    },
+    {
+        "id": "binding-serialbutton",
+        "label": "Serial Button Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/serialbutton/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.serialbutton/changelog.md"
+    },
+    {
+        "id": "binding-silvercrestwifisocket",
+        "label": "Silvercrest Wifi Plug Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/silvercrestwifisocket/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.silvercrestwifisocket/changelog.md"
+    },
+    {
+        "id": "binding-sleepiq",
+        "label": "SleepIQ Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/sleepiq/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.sleepiq/changelog.md"
+    },
+    {
+        "id": "binding-smaenergymeter",
+        "label": "SMA Energy Monitor Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/smaenergymeter/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.smaenergymeter/changelog.md"
+    },
+    {
+        "id": "binding-smartmeter",
+        "label": "Smartmeter Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/smartmeter/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.smartmeter/changelog.md"
+    },
+    {
+        "id": "binding-solaredge",
+        "label": "SolarEdge Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/solaredge/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.solaredge/changelog.md"
+    },
+    {
+        "id": "binding-solarlog",
+        "label": "SolarLog Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/solarlog/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.solarlog/changelog.md"
+    },
+    {
+        "id": "binding-somfytahoma",
+        "label": "Somfy Tahoma Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/somfytahoma/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.somfytahoma/changelog.md"
+    },
+    {
+        "id": "binding-sonos",
+        "label": "Sonos Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/sonos/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.sonos/changelog.md"
+    },
+    {
+        "id": "binding-sonyaudio",
+        "label": "Sony Audio Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/sonyaudio/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.sonyaudio/changelog.md"
+    },
+    {
+        "id": "binding-squeezebox",
+        "label": "Squeezebox Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/squeezebox/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.squeezebox/changelog.md"
+    },
+    {
+        "id": "binding-synopanalyzer",
+        "label": "Synop Analyzer Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/synopanalyzer/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Lorem nisi quis deserunt deserunt laborum aute occaecat do ad laborum anim aute. Velit ullamco elit quis anim cillum sunt anim duis minim. Est sunt dolor aute qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.synopanalyzer/changelog.md"
+    },
+    {
+        "id": "binding-systeminfo",
+        "label": "System Info Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/systeminfo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Tempor velit irure in ad laborum ex Lorem. Officia sint velit eu pariatur deserunt labore amet ea est. Deserunt fugiat reprehenderit culpa aliquip velit fugiat do.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.systeminfo/changelog.md"
+    },
+    {
+        "id": "binding-tado",
+        "label": "Tado Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tado/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tado/changelog.md"
+    },
+    {
+        "id": "binding-tankerkoenig",
+        "label": "Tankerkoenig Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tankerkoenig/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tankerkoenig/changelog.md"
+    },
+    {
+        "id": "binding-tellstick",
+        "label": "Tellstick Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tellstick/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tellstick/changelog.md"
+    },
+    {
+        "id": "binding-tesla",
+        "label": "Tesla Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tesla/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tesla/changelog.md"
+    },
+    {
+        "id": "binding-toon",
+        "label": "Toon Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/toon/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Fitzgerald Lynn",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.toon/changelog.md"
+    },
+    {
+        "id": "binding-tplinksmarthome",
+        "label": "TP-Link Smart Home Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tplinksmarthome/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tplinksmarthome/changelog.md"
+    },
+    {
+        "id": "binding-tradfri",
+        "label": "TRÅDFRI Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/tradfri/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ipsum proident commodo nulla fugiat adipisicing amet nisi fugiat est eu commodo commodo nulla fugiat. Fugiat commodo duis laborum incididunt incididunt dolore amet reprehenderit officia incididunt ut magna. Occaecat non labore esse qui anim reprehenderit veniam sunt dolor reprehenderit qui.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.tradfri/changelog.md"
+    },
+    {
+        "id": "binding-unifi",
+        "label": "UniFi Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/unifi/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.unifi/changelog.md"
+    },
+    {
+        "id": "binding-urtsi",
+        "label": "Somfy URTSI II Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/urtsi/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.urtsi/changelog.md"
+    },
+    {
+        "id": "binding-valloxmv",
+        "label": "ValloxMV Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/valloxmv/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.valloxmv/changelog.md"
+    },
+    {
+        "id": "binding-velbus",
+        "label": "Velbus Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/velbus/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.velbus/changelog.md"
+    },
+    {
+        "id": "binding-vitotronic",
+        "label": "Vitotronic Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/vitotronic/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kara Bolton",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.vitotronic/changelog.md"
+    },
+    {
+        "id": "binding-weatherunderground",
+        "label": "WeatherUnderground Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/weatherunderground/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.weatherunderground/changelog.md"
+    },
+    {
+        "id": "binding-wemo",
+        "label": "Wemo Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/wemo/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.wemo/changelog.md"
+    },
+    {
+        "id": "binding-wifiled",
+        "label": "WiFi LED Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/wifiled/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Hillary Castro",
+        "description": "Esse reprehenderit culpa est ipsum quis adipisicing esse. Lorem quis amet non esse et aliquip elit duis ad qui excepteur. Veniam voluptate officia id laboris do in fugiat laborum duis.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.wifiled/changelog.md"
+    },
+    {
+        "id": "binding-windcentrale",
+        "label": "Windcentrale Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/windcentrale/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Andrews Wilkerson",
+        "description": "Veniam elit occaecat ipsum velit. Dolor qui exercitation labore reprehenderit dolore. Sunt ut nisi commodo irure duis nostrud adipisicing pariatur enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.windcentrale/changelog.md"
+    },
+    {
+        "id": "binding-yamahareceiver",
+        "label": "Yamaha Receiver Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/yamahareceiver/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Cantu Peck",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.yamahareceiver/changelog.md"
+    },
+    {
+        "id": "binding-yeelight",
+        "label": "Yeelight Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/yeelight/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.yeelight/changelog.md"
+    },
+    {
+        "id": "binding-zigbee",
+        "label": "ZigBee Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/zigbee/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.zigbee/changelog.md"
+    },
+    {
+        "id": "binding-zoneminder",
+        "label": "ZoneMinder Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/zoneminder/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Manning Phelps",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.zoneminder/changelog.md"
+    },
+    {
+        "id": "binding-zwave",
+        "label": "Z-Wave Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/zwave/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Rochelle Henson",
+        "description": "Ad deserunt proident velit ea velit enim officia elit. Reprehenderit fugiat labore id veniam et. Ea dolor amet ut ipsum incididunt cillum ullamco id sit laboris enim excepteur.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.zwave/changelog.md"
+    },
+    {
+        "id": "binding-zway",
+        "label": "Z-Way Binding",
+        "version": "2.5.1",
+        "homepage": "https://www.openhab.org/addons/bindings/zway/",
+        "type": "binding",
+        "author_registry": "INVALID",
+        "author": "Warner Wong",
+        "description": "Eu culpa magna ut in ad quis consequat quis amet velit enim culpa. Est commodo culpa nulla adipisicing. Commodo exercitation cillum enim consequat veniam irure proident non quis dolore duis et tempor sint.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        },
+        "github": "https://github.com/openhab/openhab2-addons",
+        "changelog_url": "/addons/binding/org.openhab.binding.zway/changelog.md"
+    },
+    {
+        "id": "misc-azureiothub",
+        "label": "Azure IoT Hub Connector",
+        "version": "2.5.1",
+        "type": "ioservice",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Nostrud ullamco exercitation ut tempor non minim laborum. Et non ut aute aliqua nisi aute cupidatat minim incididunt duis et adipisicing. Fugiat exercitation mollit nulla aliqua reprehenderit aute quis ipsum dolore enim.",
+        "manufacturers": [],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        }
+    },
+    {
+        "id": "misc-homekit",
+        "label": "HomeKit Integration",
+        "version": "2.5.1",
+        "type": "ioservice",
+        "author_registry": "INVALID",
+        "author": "Kay Mcmahon",
+        "description": "Quis cupidatat commodo consequat anim incididunt. Cillum aliqua minim magna amet consectetur labore sint qui nostrud magna nulla eiusmod. Ea exercitation fugiat duis id irure mollit non.",
+        "manufacturers": [
+            "Apple"
+        ],
+        "products": [],
+        "license": "epl-2.0",
+        "archs": [
+            "x86",
+            "x64",
+            "armv70",
+            "armv80"
+        ],
+        "size": 12542542,
+        "estimated_mem": {
+            "min": 30,
+            "max": 60
+        },
+        "reviewed_by": [],
+        "permissions": {
+            "mandatory": [],
+            "optional": []
+        },
+        "last_updated": 1564580802537,
+        "status": {
+            "code": "AVAILABLE"
+        }
+    }
+]
