@@ -16,7 +16,7 @@ The database file contains a json array. Each entry has the form like in the fol
     "version": "2.5.1",
     "homepage": "https://github.com/openhab-nodes/addon-hue",
     "github": "https://github.com/openhab-nodes/addon-hue",
-    "changelog_url": "/changelog.md"
+    "changelog_url": "/changelog.md",
     "type": "binding",
     "author": "Warner Wong",
     "manufacturers": [],
@@ -69,7 +69,7 @@ The database file contains a json array. Each entry has the form like in the fol
     "last_updated": 1564580802537,
     "status": {
         "code": "AVAILABLE"
-    },
+    }
 }
 ```
 
