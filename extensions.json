@@ -1,7 +1,7 @@
 [
     {
         "id": "binding-airquality",
-        "label": "Air Quality Binding",
+        "title": "Air Quality Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/airquality/",
         "type": "binding",
@@ -36,7 +36,7 @@
     },
     {
         "id": "binding-airvisualnode",
-        "label": "AirVisual Node Binding",
+        "title": "AirVisual Node Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/airvisualnode/",
         "type": "binding",
@@ -71,7 +71,7 @@
     },
     {
         "id": "binding-allplay",
-        "label": "AllPlay Binding",
+        "title": "AllPlay Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/allplay/",
         "type": "binding",
@@ -106,7 +106,7 @@
     },
     {
         "id": "binding-amazondashbutton",
-        "label": "Amazon Dash Button Binding",
+        "title": "Amazon Dash Button Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/amazondashbutton/",
         "type": "binding",
@@ -141,7 +141,7 @@
     },
     {
         "id": "binding-amazonechocontrol",
-        "label": "Amazon Echo Control Binding",
+        "title": "Amazon Echo Control Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/amazonechocontrol/",
         "type": "binding",
@@ -176,7 +176,7 @@
     },
     {
         "id": "binding-astro",
-        "label": "Astro Binding",
+        "title": "Astro Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/astro/",
         "type": "binding",
@@ -211,7 +211,7 @@
     },
     {
         "id": "binding-atlona",
-        "label": "Atlona PRO3 Switch Binding",
+        "title": "Atlona PRO3 Switch Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/atlona/",
         "type": "binding",
@@ -246,7 +246,7 @@
     },
     {
         "id": "binding-autelis",
-        "label": "Autelis Binding",
+        "title": "Autelis Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/autelis/",
         "type": "binding",
@@ -281,7 +281,7 @@
     },
     {
         "id": "binding-avmfritz",
-        "label": "AVM FRITZ!Box Binding",
+        "title": "AVM FRITZ!Box Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/avmfritz/",
         "type": "binding",
@@ -316,7 +316,7 @@
     },
     {
         "id": "binding-bigassfan",
-        "label": "Big Ass Fan Binding",
+        "title": "Big Ass Fan Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/bigassfan/",
         "type": "binding",
@@ -351,7 +351,7 @@
     },
     {
         "id": "binding-bluetooth",
-        "label": "Bluetooth Binding",
+        "title": "Bluetooth Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/bluetooth/",
         "type": "binding",
@@ -388,7 +388,7 @@
     },
     {
         "id": "binding-boschindego",
-        "label": "Bosch Indego Binding",
+        "title": "Bosch Indego Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/boschindego/",
         "type": "binding",
@@ -423,7 +423,7 @@
     },
     {
         "id": "binding-bosesoundtouch",
-        "label": "Bose SoundTouch Binding",
+        "title": "Bose SoundTouch Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/bosesoundtouch/",
         "type": "binding",
@@ -458,7 +458,7 @@
     },
     {
         "id": "binding-chromecast",
-        "label": "Chromecast Binding",
+        "title": "Chromecast Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/chromecast/",
         "type": "binding",
@@ -493,7 +493,7 @@
     },
     {
         "id": "binding-cm11a",
-        "label": "cm11a Binding",
+        "title": "cm11a Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/cm11a/",
         "type": "binding",
@@ -528,7 +528,7 @@
     },
     {
         "id": "binding-coolmasternet",
-        "label": "CoolMasterNet Binding",
+        "title": "CoolMasterNet Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/coolmasternet/",
         "type": "binding",
@@ -563,7 +563,7 @@
     },
     {
         "id": "binding-deconz",
-        "label": "Dresden Elektronik Deconz Binding",
+        "title": "Dresden Elektronik Deconz Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/deconz/",
         "type": "binding",
@@ -598,7 +598,7 @@
     },
     {
         "id": "binding-denonmarantz",
-        "label": "DenonMarantz Binding",
+        "title": "DenonMarantz Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/denonmarantz/",
         "type": "binding",
@@ -633,7 +633,7 @@
     },
     {
         "id": "binding-digitalstrom",
-        "label": "digitalSTROM Binding",
+        "title": "digitalSTROM Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/digitalstrom/",
         "type": "binding",
@@ -668,7 +668,7 @@
     },
     {
         "id": "binding-dlinksmarthome",
-        "label": "D-Link Smart Home Binding",
+        "title": "D-Link Smart Home Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/dlinksmarthome/",
         "type": "binding",
@@ -703,7 +703,7 @@
     },
     {
         "id": "binding-dmx",
-        "label": "DMX Binding",
+        "title": "DMX Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/dmx/",
         "type": "binding",
@@ -738,7 +738,7 @@
     },
     {
         "id": "binding-dscalarm",
-        "label": "DSCAlarm Binding",
+        "title": "DSCAlarm Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/dscalarm/",
         "type": "binding",
@@ -773,7 +773,7 @@
     },
     {
         "id": "binding-dsmr",
-        "label": "DSMR Binding",
+        "title": "DSMR Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/dsmr/",
         "type": "binding",
@@ -808,7 +808,7 @@
     },
     {
         "id": "binding-elerotransmitterstick",
-        "label": "Elero Transmitterstick Binding",
+        "title": "Elero Transmitterstick Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/elerotransmitterstick/",
         "type": "binding",
@@ -843,7 +843,7 @@
     },
     {
         "id": "binding-enocean",
-        "label": "EnOcean Binding",
+        "title": "EnOcean Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/enocean/",
         "type": "binding",
@@ -878,7 +878,7 @@
     },
     {
         "id": "binding-evohome",
-        "label": "Evohome Binding",
+        "title": "Evohome Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/evohome/",
         "type": "binding",
@@ -913,7 +913,7 @@
     },
     {
         "id": "binding-exec",
-        "label": "Exec Binding",
+        "title": "Exec Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/exec/",
         "type": "binding",
@@ -948,7 +948,7 @@
     },
     {
         "id": "binding-feed",
-        "label": "Feed Binding",
+        "title": "Feed Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/feed/",
         "type": "binding",
@@ -983,7 +983,7 @@
     },
     {
         "id": "binding-feican",
-        "label": "Feican Binding",
+        "title": "Feican Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/feican/",
         "type": "binding",
@@ -1018,7 +1018,7 @@
     },
     {
         "id": "binding-folding",
-        "label": "Folding Binding",
+        "title": "Folding Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/folding/",
         "type": "binding",
@@ -1053,7 +1053,7 @@
     },
     {
         "id": "binding-freebox",
-        "label": "Freebox Binding",
+        "title": "Freebox Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/freebox/",
         "type": "binding",
@@ -1088,7 +1088,7 @@
     },
     {
         "id": "binding-fronius",
-        "label": "Fronius Binding",
+        "title": "Fronius Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/fronius/",
         "type": "binding",
@@ -1123,7 +1123,7 @@
     },
     {
         "id": "binding-fsinternetradio",
-        "label": "Frontier Silicon Internet Radio Binding",
+        "title": "Frontier Silicon Internet Radio Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/fsinternetradio/",
         "type": "binding",
@@ -1158,7 +1158,7 @@
     },
     {
         "id": "binding-ftpupload",
-        "label": "FTP Upload Binding",
+        "title": "FTP Upload Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/ftpupload/",
         "type": "binding",
@@ -1193,7 +1193,7 @@
     },
     {
         "id": "binding-gardena",
-        "label": "Gardena Binding",
+        "title": "Gardena Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/gardena/",
         "type": "binding",
@@ -1228,7 +1228,7 @@
     },
     {
         "id": "binding-globalcache",
-        "label": "GlobalCache Binding",
+        "title": "GlobalCache Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/globalcache/",
         "type": "binding",
@@ -1263,7 +1263,7 @@
     },
     {
         "id": "binding-gpstracker",
-        "label": "GPSTracker Binding",
+        "title": "GPSTracker Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/gpstracker/",
         "type": "binding",
@@ -1298,7 +1298,7 @@
     },
     {
         "id": "binding-groheondus",
-        "label": "GROHE ONDUS Binding",
+        "title": "GROHE ONDUS Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/groheondus/",
         "type": "binding",
@@ -1333,7 +1333,7 @@
     },
     {
         "id": "binding-harmonyhub",
-        "label": "Harmony Hub Binding",
+        "title": "Harmony Hub Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/harmonyhub/",
         "type": "binding",
@@ -1368,7 +1368,7 @@
     },
     {
         "id": "binding-hdanywhere",
-        "label": "HDAnywhere Binding",
+        "title": "HDAnywhere Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/hdanywhere/",
         "type": "binding",
@@ -1403,7 +1403,7 @@
     },
     {
         "id": "binding-hdpowerview",
-        "label": "HD PowerView Binding",
+        "title": "HD PowerView Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/hdpowerview/",
         "type": "binding",
@@ -1438,7 +1438,7 @@
     },
     {
         "id": "binding-helios",
-        "label": "Helios Binding",
+        "title": "Helios Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/helios/",
         "type": "binding",
@@ -1473,7 +1473,7 @@
     },
     {
         "id": "binding-homematic",
-        "label": "Homematic Binding",
+        "title": "Homematic Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/homematic/",
         "type": "binding",
@@ -1508,7 +1508,7 @@
     },
     {
         "id": "binding-hue",
-        "label": "Hue Binding",
+        "title": "Hue Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/hue/",
         "type": "binding",
@@ -1568,7 +1568,7 @@
     },
     {
         "id": "binding-hyperion",
-        "label": "Hyperion Binding",
+        "title": "Hyperion Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/hyperion/",
         "type": "binding",
@@ -1603,7 +1603,7 @@
     },
     {
         "id": "binding-icloud",
-        "label": "icloud Binding",
+        "title": "icloud Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/icloud/",
         "type": "binding",
@@ -1638,7 +1638,7 @@
     },
     {
         "id": "binding-innogysmarthome",
-        "label": "innogy Smarthome Binding",
+        "title": "innogy Smarthome Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/innogysmarthome/",
         "type": "binding",
@@ -1673,7 +1673,7 @@
     },
     {
         "id": "binding-ipp",
-        "label": "IPP Binding",
+        "title": "IPP Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/ipp/",
         "type": "binding",
@@ -1708,7 +1708,7 @@
     },
     {
         "id": "binding-irtrans",
-        "label": "IRTrans Binding",
+        "title": "IRTrans Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/irtrans/",
         "type": "binding",
@@ -1743,7 +1743,7 @@
     },
     {
         "id": "binding-jeelink",
-        "label": "Jeelink Binding",
+        "title": "Jeelink Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/jeelink/",
         "type": "binding",
@@ -1778,7 +1778,7 @@
     },
     {
         "id": "binding-keba",
-        "label": "Keba Binding",
+        "title": "Keba Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/keba/",
         "type": "binding",
@@ -1813,7 +1813,7 @@
     },
     {
         "id": "binding-km200",
-        "label": "KM200 Binding",
+        "title": "KM200 Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/km200/",
         "type": "binding",
@@ -1848,7 +1848,7 @@
     },
     {
         "id": "binding-knx",
-        "label": "KNX Binding",
+        "title": "KNX Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/knx/",
         "type": "binding",
@@ -1883,7 +1883,7 @@
     },
     {
         "id": "binding-kodi",
-        "label": "Kodi Binding",
+        "title": "Kodi Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/kodi/",
         "type": "binding",
@@ -1918,7 +1918,7 @@
     },
     {
         "id": "binding-konnected",
-        "label": "Konnected Binding",
+        "title": "Konnected Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/konnected/",
         "type": "binding",
@@ -1953,7 +1953,7 @@
     },
     {
         "id": "binding-kostalinverter",
-        "label": "Kostal Inverter Binding",
+        "title": "Kostal Inverter Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/kostalinverter/",
         "type": "binding",
@@ -1988,7 +1988,7 @@
     },
     {
         "id": "binding-lametrictime",
-        "label": "LaMetric Time Binding",
+        "title": "LaMetric Time Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lametrictime/",
         "type": "binding",
@@ -2023,7 +2023,7 @@
     },
     {
         "id": "binding-leapmotion",
-        "label": "LeapMotion Binding",
+        "title": "LeapMotion Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/leapmotion/",
         "type": "binding",
@@ -2058,7 +2058,7 @@
     },
     {
         "id": "binding-lgtvserial",
-        "label": "LG TV Serial Binding",
+        "title": "LG TV Serial Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lgtvserial/",
         "type": "binding",
@@ -2093,7 +2093,7 @@
     },
     {
         "id": "binding-lgwebos",
-        "label": "LG webOS Binding",
+        "title": "LG webOS Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lgwebos/",
         "type": "binding",
@@ -2128,7 +2128,7 @@
     },
     {
         "id": "binding-lifx",
-        "label": "LIFX Binding",
+        "title": "LIFX Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lifx/",
         "type": "binding",
@@ -2163,7 +2163,7 @@
     },
     {
         "id": "binding-lirc",
-        "label": "LIRC Binding",
+        "title": "LIRC Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lirc/",
         "type": "binding",
@@ -2198,7 +2198,7 @@
     },
     {
         "id": "binding-logreader",
-        "label": "Log Reader Binding",
+        "title": "Log Reader Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/logreader/",
         "type": "binding",
@@ -2233,7 +2233,7 @@
     },
     {
         "id": "binding-loxone",
-        "label": "Loxone Binding",
+        "title": "Loxone Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/loxone/",
         "type": "binding",
@@ -2268,7 +2268,7 @@
     },
     {
         "id": "binding-lutron",
-        "label": "Lutron Binding",
+        "title": "Lutron Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/lutron/",
         "type": "binding",
@@ -2303,7 +2303,7 @@
     },
     {
         "id": "binding-max",
-        "label": "MAX! Binding",
+        "title": "MAX! Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/max/",
         "type": "binding",
@@ -2338,7 +2338,7 @@
     },
     {
         "id": "binding-mcp23017",
-        "label": "MCP23017 Binding",
+        "title": "MCP23017 Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/mcp23017/",
         "type": "binding",
@@ -2373,7 +2373,7 @@
     },
     {
         "id": "binding-meteoblue",
-        "label": "meteoblue Binding",
+        "title": "meteoblue Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/meteoblue/",
         "type": "binding",
@@ -2408,7 +2408,7 @@
     },
     {
         "id": "binding-meteostick",
-        "label": "Meteostick Binding",
+        "title": "Meteostick Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/meteostick/",
         "type": "binding",
@@ -2443,7 +2443,7 @@
     },
     {
         "id": "binding-miele",
-        "label": "Miele@home Binding",
+        "title": "Miele@home Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/miele/",
         "type": "binding",
@@ -2478,7 +2478,7 @@
     },
     {
         "id": "binding-mihome",
-        "label": "Xiaomi Mi Smart Home Binding",
+        "title": "Xiaomi Mi Smart Home Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/mihome/",
         "type": "binding",
@@ -2513,7 +2513,7 @@
     },
     {
         "id": "binding-miio",
-        "label": "Xiaomi Mi IO Binding",
+        "title": "Xiaomi Mi IO Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/miio/",
         "type": "binding",
@@ -2548,7 +2548,7 @@
     },
     {
         "id": "binding-milight",
-        "label": "Milight Binding",
+        "title": "Milight Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/milight/",
         "type": "binding",
@@ -2583,7 +2583,7 @@
     },
     {
         "id": "binding-minecraft",
-        "label": "Minecraft Binding",
+        "title": "Minecraft Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/minecraft/",
         "type": "binding",
@@ -2618,7 +2618,7 @@
     },
     {
         "id": "binding-modbus",
-        "label": "Modbus Binding",
+        "title": "Modbus Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/modbus/",
         "type": "binding",
@@ -2653,7 +2653,7 @@
     },
     {
         "id": "binding-mqtt",
-        "label": "MQTT Binding",
+        "title": "MQTT Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/mqtt/",
         "type": "binding",
@@ -2688,7 +2688,7 @@
     },
     {
         "id": "binding-neato",
-        "label": "Neato Binding",
+        "title": "Neato Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/neato/",
         "type": "binding",
@@ -2723,7 +2723,7 @@
     },
     {
         "id": "binding-neeo",
-        "label": "NEEO Binding",
+        "title": "NEEO Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/neeo/",
         "type": "binding",
@@ -2758,7 +2758,7 @@
     },
     {
         "id": "binding-nest",
-        "label": "Nest Binding",
+        "title": "Nest Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/nest/",
         "type": "binding",
@@ -2793,7 +2793,7 @@
     },
     {
         "id": "binding-netatmo",
-        "label": "Netatmo Binding",
+        "title": "Netatmo Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/netatmo/",
         "type": "binding",
@@ -2828,7 +2828,7 @@
     },
     {
         "id": "binding-network",
-        "label": "Network Binding",
+        "title": "Network Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/network/",
         "type": "binding",
@@ -2863,7 +2863,7 @@
     },
     {
         "id": "binding-nibeheatpump",
-        "label": "Nibe Heat Pump Binding",
+        "title": "Nibe Heat Pump Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/nibeheatpump/",
         "type": "binding",
@@ -2898,7 +2898,7 @@
     },
     {
         "id": "binding-nibeuplink",
-        "label": "NibeUplink Binding",
+        "title": "NibeUplink Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/nibeuplink/",
         "type": "binding",
@@ -2933,7 +2933,7 @@
     },
     {
         "id": "binding-nikohomecontrol",
-        "label": "Niko Home Control Binding",
+        "title": "Niko Home Control Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/nikohomecontrol/",
         "type": "binding",
@@ -2968,7 +2968,7 @@
     },
     {
         "id": "binding-ntp",
-        "label": "NTP Binding",
+        "title": "NTP Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/ntp/",
         "type": "binding",
@@ -3003,7 +3003,7 @@
     },
     {
         "id": "binding-nuki",
-        "label": "Nuki Binding",
+        "title": "Nuki Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/nuki/",
         "type": "binding",
@@ -3038,7 +3038,7 @@
     },
     {
         "id": "binding-oceanic",
-        "label": "Oceanic Binding",
+        "title": "Oceanic Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/oceanic/",
         "type": "binding",
@@ -3073,7 +3073,7 @@
     },
     {
         "id": "binding-onebusaway",
-        "label": "OneBusAway Binding",
+        "title": "OneBusAway Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/onebusaway/",
         "type": "binding",
@@ -3108,7 +3108,7 @@
     },
     {
         "id": "binding-onewire",
-        "label": "OneWire Binding",
+        "title": "OneWire Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/onewire/",
         "type": "binding",
@@ -3145,7 +3145,7 @@
     },
     {
         "id": "binding-onewiregpio",
-        "label": "OneWireGPIO Binding",
+        "title": "OneWireGPIO Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/onewiregpio/",
         "type": "binding",
@@ -3180,7 +3180,7 @@
     },
     {
         "id": "binding-onkyo",
-        "label": "Onkyo Binding",
+        "title": "Onkyo Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/onkyo/",
         "type": "binding",
@@ -3215,7 +3215,7 @@
     },
     {
         "id": "binding-opensprinkler",
-        "label": "OpenSprinkler Binding",
+        "title": "OpenSprinkler Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/opensprinkler/",
         "type": "binding",
@@ -3250,7 +3250,7 @@
     },
     {
         "id": "binding-openuv",
-        "label": "OpenUV Binding",
+        "title": "OpenUV Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/openuv/",
         "type": "binding",
@@ -3285,7 +3285,7 @@
     },
     {
         "id": "binding-openweathermap",
-        "label": "OpenWeatherMap Binding",
+        "title": "OpenWeatherMap Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/openweathermap/",
         "type": "binding",
@@ -3320,7 +3320,7 @@
     },
     {
         "id": "binding-orvibo",
-        "label": "Orvibo Binding",
+        "title": "Orvibo Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/orvibo/",
         "type": "binding",
@@ -3355,7 +3355,7 @@
     },
     {
         "id": "binding-pentair",
-        "label": "Pentair Binding",
+        "title": "Pentair Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/pentair/",
         "type": "binding",
@@ -3390,7 +3390,7 @@
     },
     {
         "id": "binding-phc",
-        "label": "PHC Binding",
+        "title": "PHC Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/phc/",
         "type": "binding",
@@ -3425,7 +3425,7 @@
     },
     {
         "id": "binding-pioneeravr",
-        "label": "PioneerAVR Binding",
+        "title": "PioneerAVR Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/pioneeravr/",
         "type": "binding",
@@ -3460,7 +3460,7 @@
     },
     {
         "id": "binding-plclogo",
-        "label": "PLCLogo Binding",
+        "title": "PLCLogo Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/plclogo/",
         "type": "binding",
@@ -3495,7 +3495,7 @@
     },
     {
         "id": "binding-plugwise",
-        "label": "Plugwise Binding",
+        "title": "Plugwise Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/plugwise/",
         "type": "binding",
@@ -3530,7 +3530,7 @@
     },
     {
         "id": "binding-powermax",
-        "label": "Powermax Binding",
+        "title": "Powermax Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/powermax/",
         "type": "binding",
@@ -3565,7 +3565,7 @@
     },
     {
         "id": "binding-pulseaudio",
-        "label": "Pulseaudio Binding",
+        "title": "Pulseaudio Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/pulseaudio/",
         "type": "binding",
@@ -3600,7 +3600,7 @@
     },
     {
         "id": "binding-regoheatpump",
-        "label": "RegoHeatPump Binding",
+        "title": "RegoHeatPump Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/regoheatpump/",
         "type": "binding",
@@ -3635,7 +3635,7 @@
     },
     {
         "id": "binding-rfxcom",
-        "label": "RFXCOM Binding",
+        "title": "RFXCOM Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/rfxcom/",
         "type": "binding",
@@ -3670,7 +3670,7 @@
     },
     {
         "id": "binding-rme",
-        "label": "RME Binding",
+        "title": "RME Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/rme/",
         "type": "binding",
@@ -3705,7 +3705,7 @@
     },
     {
         "id": "binding-robonect",
-        "label": "Robonect Binding",
+        "title": "Robonect Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/robonect/",
         "type": "binding",
@@ -3740,7 +3740,7 @@
     },
     {
         "id": "binding-rotelra1x",
-        "label": "RotelRa1x Binding",
+        "title": "RotelRa1x Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/rotelra1x/",
         "type": "binding",
@@ -3775,7 +3775,7 @@
     },
     {
         "id": "binding-russound",
-        "label": "Russound Binding",
+        "title": "Russound Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/russound/",
         "type": "binding",
@@ -3810,7 +3810,7 @@
     },
     {
         "id": "binding-samsungtv",
-        "label": "Samsung TV Binding",
+        "title": "Samsung TV Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/samsungtv/",
         "type": "binding",
@@ -3845,7 +3845,7 @@
     },
     {
         "id": "binding-satel",
-        "label": "Satel Binding",
+        "title": "Satel Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/satel/",
         "type": "binding",
@@ -3880,7 +3880,7 @@
     },
     {
         "id": "binding-seneye",
-        "label": "Seneye Binding",
+        "title": "Seneye Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/seneye/",
         "type": "binding",
@@ -3915,7 +3915,7 @@
     },
     {
         "id": "binding-sensebox",
-        "label": "Sensebox Binding",
+        "title": "Sensebox Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/sensebox/",
         "type": "binding",
@@ -3950,7 +3950,7 @@
     },
     {
         "id": "binding-serialbutton",
-        "label": "Serial Button Binding",
+        "title": "Serial Button Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/serialbutton/",
         "type": "binding",
@@ -3985,7 +3985,7 @@
     },
     {
         "id": "binding-silvercrestwifisocket",
-        "label": "Silvercrest Wifi Plug Binding",
+        "title": "Silvercrest Wifi Plug Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/silvercrestwifisocket/",
         "type": "binding",
@@ -4020,7 +4020,7 @@
     },
     {
         "id": "binding-sleepiq",
-        "label": "SleepIQ Binding",
+        "title": "SleepIQ Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/sleepiq/",
         "type": "binding",
@@ -4055,7 +4055,7 @@
     },
     {
         "id": "binding-smaenergymeter",
-        "label": "SMA Energy Monitor Binding",
+        "title": "SMA Energy Monitor Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/smaenergymeter/",
         "type": "binding",
@@ -4090,7 +4090,7 @@
     },
     {
         "id": "binding-smartmeter",
-        "label": "Smartmeter Binding",
+        "title": "Smartmeter Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/smartmeter/",
         "type": "binding",
@@ -4125,7 +4125,7 @@
     },
     {
         "id": "binding-solaredge",
-        "label": "SolarEdge Binding",
+        "title": "SolarEdge Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/solaredge/",
         "type": "binding",
@@ -4160,7 +4160,7 @@
     },
     {
         "id": "binding-solarlog",
-        "label": "SolarLog Binding",
+        "title": "SolarLog Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/solarlog/",
         "type": "binding",
@@ -4195,7 +4195,7 @@
     },
     {
         "id": "binding-somfytahoma",
-        "label": "Somfy Tahoma Binding",
+        "title": "Somfy Tahoma Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/somfytahoma/",
         "type": "binding",
@@ -4230,7 +4230,7 @@
     },
     {
         "id": "binding-sonos",
-        "label": "Sonos Binding",
+        "title": "Sonos Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/sonos/",
         "type": "binding",
@@ -4265,7 +4265,7 @@
     },
     {
         "id": "binding-sonyaudio",
-        "label": "Sony Audio Binding",
+        "title": "Sony Audio Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/sonyaudio/",
         "type": "binding",
@@ -4300,7 +4300,7 @@
     },
     {
         "id": "binding-squeezebox",
-        "label": "Squeezebox Binding",
+        "title": "Squeezebox Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/squeezebox/",
         "type": "binding",
@@ -4335,7 +4335,7 @@
     },
     {
         "id": "binding-synopanalyzer",
-        "label": "Synop Analyzer Binding",
+        "title": "Synop Analyzer Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/synopanalyzer/",
         "type": "binding",
@@ -4370,7 +4370,7 @@
     },
     {
         "id": "binding-systeminfo",
-        "label": "System Info Binding",
+        "title": "System Info Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/systeminfo/",
         "type": "binding",
@@ -4405,7 +4405,7 @@
     },
     {
         "id": "binding-tado",
-        "label": "Tado Binding",
+        "title": "Tado Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tado/",
         "type": "binding",
@@ -4440,7 +4440,7 @@
     },
     {
         "id": "binding-tankerkoenig",
-        "label": "Tankerkoenig Binding",
+        "title": "Tankerkoenig Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tankerkoenig/",
         "type": "binding",
@@ -4475,7 +4475,7 @@
     },
     {
         "id": "binding-tellstick",
-        "label": "Tellstick Binding",
+        "title": "Tellstick Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tellstick/",
         "type": "binding",
@@ -4510,7 +4510,7 @@
     },
     {
         "id": "binding-tesla",
-        "label": "Tesla Binding",
+        "title": "Tesla Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tesla/",
         "type": "binding",
@@ -4545,7 +4545,7 @@
     },
     {
         "id": "binding-toon",
-        "label": "Toon Binding",
+        "title": "Toon Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/toon/",
         "type": "binding",
@@ -4580,7 +4580,7 @@
     },
     {
         "id": "binding-tplinksmarthome",
-        "label": "TP-Link Smart Home Binding",
+        "title": "TP-Link Smart Home Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tplinksmarthome/",
         "type": "binding",
@@ -4615,7 +4615,7 @@
     },
     {
         "id": "binding-tradfri",
-        "label": "TRÅDFRI Binding",
+        "title": "TRÅDFRI Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/tradfri/",
         "type": "binding",
@@ -4650,7 +4650,7 @@
     },
     {
         "id": "binding-unifi",
-        "label": "UniFi Binding",
+        "title": "UniFi Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/unifi/",
         "type": "binding",
@@ -4685,7 +4685,7 @@
     },
     {
         "id": "binding-urtsi",
-        "label": "Somfy URTSI II Binding",
+        "title": "Somfy URTSI II Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/urtsi/",
         "type": "binding",
@@ -4720,7 +4720,7 @@
     },
     {
         "id": "binding-valloxmv",
-        "label": "ValloxMV Binding",
+        "title": "ValloxMV Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/valloxmv/",
         "type": "binding",
@@ -4755,7 +4755,7 @@
     },
     {
         "id": "binding-velbus",
-        "label": "Velbus Binding",
+        "title": "Velbus Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/velbus/",
         "type": "binding",
@@ -4790,7 +4790,7 @@
     },
     {
         "id": "binding-vitotronic",
-        "label": "Vitotronic Binding",
+        "title": "Vitotronic Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/vitotronic/",
         "type": "binding",
@@ -4825,7 +4825,7 @@
     },
     {
         "id": "binding-weatherunderground",
-        "label": "WeatherUnderground Binding",
+        "title": "WeatherUnderground Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/weatherunderground/",
         "type": "binding",
@@ -4860,7 +4860,7 @@
     },
     {
         "id": "binding-wemo",
-        "label": "Wemo Binding",
+        "title": "Wemo Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/wemo/",
         "type": "binding",
@@ -4895,7 +4895,7 @@
     },
     {
         "id": "binding-wifiled",
-        "label": "WiFi LED Binding",
+        "title": "WiFi LED Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/wifiled/",
         "type": "binding",
@@ -4930,7 +4930,7 @@
     },
     {
         "id": "binding-windcentrale",
-        "label": "Windcentrale Binding",
+        "title": "Windcentrale Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/windcentrale/",
         "type": "binding",
@@ -4965,7 +4965,7 @@
     },
     {
         "id": "binding-yamahareceiver",
-        "label": "Yamaha Receiver Binding",
+        "title": "Yamaha Receiver Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/yamahareceiver/",
         "type": "binding",
@@ -5000,7 +5000,7 @@
     },
     {
         "id": "binding-yeelight",
-        "label": "Yeelight Binding",
+        "title": "Yeelight Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/yeelight/",
         "type": "binding",
@@ -5035,7 +5035,7 @@
     },
     {
         "id": "binding-zigbee",
-        "label": "ZigBee Binding",
+        "title": "ZigBee Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/zigbee/",
         "type": "binding",
@@ -5070,7 +5070,7 @@
     },
     {
         "id": "binding-zoneminder",
-        "label": "ZoneMinder Binding",
+        "title": "ZoneMinder Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/zoneminder/",
         "type": "binding",
@@ -5105,7 +5105,7 @@
     },
     {
         "id": "binding-zwave",
-        "label": "Z-Wave Binding",
+        "title": "Z-Wave Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/zwave/",
         "type": "binding",
@@ -5140,7 +5140,7 @@
     },
     {
         "id": "binding-zway",
-        "label": "Z-Way Binding",
+        "title": "Z-Way Binding",
         "version": "2.5.1",
         "homepage": "https://www.openhab.org/addons/bindings/zway/",
         "type": "binding",
@@ -5175,7 +5175,7 @@
     },
     {
         "id": "misc-azureiothub",
-        "label": "Azure IoT Hub Connector",
+        "title": "Azure IoT Hub Connector",
         "version": "2.5.1",
         "type": "ioservice",
         "author_registry": "INVALID",
@@ -5207,7 +5207,7 @@
     },
     {
         "id": "misc-homekit",
-        "label": "HomeKit Integration",
+        "title": "HomeKit Integration",
         "version": "2.5.1",
         "type": "ioservice",
         "author_registry": "INVALID",
