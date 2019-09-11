@@ -1,0 +1,42 @@
+{
+  "reviewed_by": [],
+  "archs": [
+    "x86"
+  ],
+  "size": 112,
+  "memory_min": 20,
+  "memory_max": 50,
+  "services": {
+    "mqttbroker": {
+      "ports": [
+        "1883:1883"
+      ],
+      "image": "eclipse-mosquitto:latest",
+      "volumes": [
+        "logvolume:/var/log"
+      ]
+    },
+    "ohx-addon-name": {
+      "ports": [
+        "5000:5000"
+      ],
+      "firewall_allow": [
+        "www.google.com",
+        "*.example.com",
+        "8.8.8.8",
+        "8.8.8.8/24",
+        "*"
+      ],
+      "permissions": {
+        "mandatory": [
+          "HW_BLUETOOTH"
+        ],
+        "optional": []
+      },
+      "image": "my-image",
+      "depends_on": [
+        "mqttbroker"
+      ]
+    }
+  }
+}
