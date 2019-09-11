@@ -7,15 +7,6 @@
   "memory_min": 20,
   "memory_max": 50,
   "services": {
-    "mqttbroker": {
-      "ports": [
-        "1883:1883"
-      ],
-      "image": "eclipse-mosquitto:latest",
-      "volumes": [
-        "logvolume:/var/log"
-      ]
-    },
     "ohx-addon-name": {
       "ports": [
         "5000:5000"
@@ -36,6 +27,15 @@
       "image": "my-image",
       "depends_on": [
         "mqttbroker"
+      ]
+    },
+    "mqttbroker": {
+      "ports": [
+        "1883:1883"
+      ],
+      "image": "eclipse-mosquitto:latest",
+      "volumes": [
+        "logvolume:/var/log"
       ]
     }
   }
