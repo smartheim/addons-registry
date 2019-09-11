@@ -1,0 +1,15 @@
+{
+  "reviewed_by": [
+    "David Gräff"
+  ],
+  "archs": [
+    "x86",
+    "x64",
+    "armv70",
+    "armv80"
+  ],
+  "size": 12542542,
+  "memory_min": 20,
+  "memory_max": 50,
+  "services": {}
+}
