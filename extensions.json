@@ -3123,32 +3123,5 @@
     },
     "owner": "INVALID",
     "last_updated": 1568229892385
-  },
-  "ohx-ci-test-addon": {
-    "title": "My addon",
-    "titles": {
-      "de": "A translated title"
-    },
-    "description": "A long description that *may* use markdown and \n line breaks",
-    "authors": [
-      "your name"
-    ],
-    "manufacturers": [
-      "Samsong"
-    ],
-    "products": [
-      "XT-1247"
-    ],
-    "homepage": "https://example.com",
-    "license": "MIT",
-    "github": "https://github.com/my/repository",
-    "type": "binding",
-    "id": "ohx-ci-test-addon",
-    "version": "1.0.0",
-    "status": {
-      "code": "AVAILABLE"
-    },
-    "owner": "demo_user",
-    "last_updated": 1568275972218
   }
 }
