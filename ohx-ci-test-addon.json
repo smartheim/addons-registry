@@ -5,19 +5,10 @@
     "armhf",
     "aarch64"
   ],
-  "size": 4615936,
+  "size": 4615937,
   "memory_min": 20,
   "memory_max": 50,
   "services": {
-    "mqttbroker": {
-      "ports": [
-        "1883:1883"
-      ],
-      "image": "docker.io/openhabx/ohx-ci-test-addon:1.0.0",
-      "volumes": [
-        "logvolume:/var/log"
-      ]
-    },
     "ohx-addon-name": {
       "ports": [
         "5000:5000"
@@ -35,9 +26,18 @@
         ],
         "optional": []
       },
-      "image": "docker.io/openhabx/ohx-ci-test-addon:1.0.0",
+      "image": "docker.io/openhabx/ohx-ci-test-addon:1.0.1",
       "depends_on": [
         "mqttbroker"
+      ]
+    },
+    "mqttbroker": {
+      "ports": [
+        "1883:1883"
+      ],
+      "image": "eclipse-mosquitto:latest",
+      "volumes": [
+        "logvolume:/var/log"
       ]
     }
   }
