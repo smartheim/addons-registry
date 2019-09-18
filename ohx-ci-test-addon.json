@@ -1,12 +1,23 @@
 {
   "reviewed_by": [],
   "archs": [
-    "x86"
+    "amd64",
+    "armhf",
+    "aarch64"
   ],
-  "size": 112,
+  "size": 4615936,
   "memory_min": 20,
   "memory_max": 50,
   "services": {
+    "mqttbroker": {
+      "ports": [
+        "1883:1883"
+      ],
+      "image": "docker.io/openhabx/ohx-ci-test-addon:1.0.0",
+      "volumes": [
+        "logvolume:/var/log"
+      ]
+    },
     "ohx-addon-name": {
       "ports": [
         "5000:5000"
@@ -24,18 +35,9 @@
         ],
         "optional": []
       },
-      "image": "my-image",
+      "image": "docker.io/openhabx/ohx-ci-test-addon:1.0.0",
       "depends_on": [
         "mqttbroker"
-      ]
-    },
-    "mqttbroker": {
-      "ports": [
-        "1883:1883"
-      ],
-      "image": "eclipse-mosquitto:latest",
-      "volumes": [
-        "logvolume:/var/log"
       ]
     }
   }
