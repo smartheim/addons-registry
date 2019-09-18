@@ -3144,11 +3144,11 @@
     "github": "https://github.com/my/repository",
     "type": "binding",
     "id": "ohx-ci-test-addon",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "status": {
       "code": "AVAILABLE"
     },
     "owner": "eJ73XyabGfcz8LCo6R5chtVpgE73",
-    "last_updated": 1568840620816
+    "last_updated": 1568840916436
   }
 }
